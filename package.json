@@ -1,0 +1,16 @@
+{
+	"name": "data-heroes",
+	"version": "1.0.0",
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node ./src/index.js"
+	},
+	"dependencies": {
+		"dotenv": "^16.4.5",
+		"pg": "^8.12.0"
+	}
+}
